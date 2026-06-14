@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 ✨ About Me<br><br>Hello! I'm Saranya, an aspiring AI Developer and Software Engineer passionate about building intelligent solutions that solve real-world problems.<br><br>Currently, I am focused on learning LLM Development, Generative AI, and mastering modern AI tools. I enjoy exploring how artificial intelligence can be applied to practical applications and continuously work on strengthening my technical foundation.<br><br>🚀 What I'm Learning<br>LLM Development<br>Generative AI<br>AI Tools & Workflows<br>Artificial Intelligence Applications<br>💻 Programming Languages<br>Python<br>C++<br>Java<br>🌐 Web Development<br>HTML<br>⚙️ Tools<br>Git<br>GitHub<br>🔍 Current Project<br><br>AI Scam Detector — an AI-powered system designed to identify and analyze fraudulent messages and online scams using machine learning and natural language processing techniques.<br><br>🤝 Open To<br>AI Project Collaborations<br>Hackathons<br>Open Source Contributions<br>Learning Opportunities<br>Innovative Software Projects
 
 
